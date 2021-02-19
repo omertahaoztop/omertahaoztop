@@ -15,7 +15,7 @@
   
 
 - 📫 How to reach me:
- [![omertahaoztop.com.tr](https://img.shields.io/badge/omertahaoztop.com.tr-%2520-green
+ [![omertahaoztop.com.tr](https://img.shields.io/badge/omertahaoztop.com.tr-%25100-green
 )](https://www.omertahaoztop.com.tr/)
 [![omertahaoztop@hotmail.com](https://img.shields.io/static/v1?label=omertahaoztop@hotmail.com&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:omertahaoztop@hotmail.com)
 
