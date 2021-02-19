@@ -1,6 +1,6 @@
 ### Hi there I am a Ömer Taha Öztop 👋
 
--🔬 I'm currently studying for a bachelor's degree in Atatürk University Computer Engineering Department
+- 🔬 I'm currently studying for a bachelor's degree in Atatürk University Computer Engineering Department
 
 - 🔭 I’m currently working on Linux System Engineering
 - 🌱 I’m currently learning SaltStack and other configuration managements
@@ -10,7 +10,7 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
- ⚡️ Fun fact: I'm a huge fan of Vikings and I love eat so much :D
+-⚡️ Fun fact: I'm a huge fan of Vikings and I love eat so much :D
  
   
 
