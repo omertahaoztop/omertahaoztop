@@ -1,10 +1,6 @@
 ### Hi there I am a Ömer Taha Öztop 👋
 
-<!--
-**omertahaoztop/omertahaoztop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--  🔬 I'm currently studying for a bachelor's degree in Atatürk University Computer Engineering Department
+-🔬 I'm currently studying for a bachelor's degree in Atatürk University Computer Engineering Department
 
 - 🔭 I’m currently working on Linux System Engineering
 - 🌱 I’m currently learning SaltStack and other configuration managements
@@ -23,4 +19,3 @@ Here are some ideas to get you started:
 )](https://www.omertahaoztop.com.tr/)
 [![omertahaoztop@hotmail.com](https://img.shields.io/static/v1?label=omertahaozotp@hotmail.com.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:omertahaoztop@hotmail.com)
 
--->
