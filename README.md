@@ -1,10 +1,6 @@
 ### Hi there I am a Ömer Taha Öztop 👋
 
 - 🔬 I'm currently studying for a bachelor's degree in Atatürk University Computer Engineering Department
-
-- 🔭 I’m currently working on Linux System Engineering
-- 🌱 I’m currently learning SaltStack and other configuration managements
-- 🏢 I'm currently working at *Faraday Networks*
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
