@@ -17,20 +17,20 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="620px" height="470px" fill="#f6f8fa" rx="15"/>
 <text x="25" y="30" fill="#24292f">
-<tspan x="25" y="30">omer@oztop</tspan> -———————————————————————————————————————————-—-
-<tspan x="25" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Arch Linux, Android 16, Linux</tspan>
-<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">27 years, 3 months, 22 days</tspan>
-<tspan x="25" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Mono Bilisim A.Ş</tspan>
-<tspan x="25" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Linux System Administrator</tspan>
-<tspan x="25" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Neovim</tspan>
+<tspan x="25" y="30">omertahaoztop</tspan> -———————————————————————————————————————————-—-
+<tspan x="25" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Arch Linux, Android 16, Linux</tspan>
+<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">27 years, 3 months, 22 days</tspan>
+<tspan x="25" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Mono Bilisim A.Ş</tspan>
+<tspan x="25" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Linux System Administrator</tspan>
+<tspan x="25" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Neovim</tspan>
 <tspan x="25" y="150" class="cc">. </tspan>
-<tspan x="25" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, Go, Ruby</tspan>
-<tspan x="25" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">English, Turkish</tspan>
+<tspan x="25" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, Go, Ruby</tspan>
+<tspan x="25" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">English, Turkish</tspan>
 <tspan x="25" y="210" class="cc">. </tspan>
-<tspan x="25" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Self Hosting, Linux, Gaming</tspan>
+<tspan x="25" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Self Hosting, Linux, Gaming</tspan>
 <tspan x="25" y="270">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="25" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">omertahaoztop@gmail.com</tspan>
-<tspan x="25" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">taha.oztop@mono.tr</tspan>
+<tspan x="25" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">omertahaoztop@gmail.com</tspan>
+<tspan x="25" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">taha.oztop@mono.tr</tspan>
 <tspan x="25" y="350">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="25" y="370" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">95</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">133</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">342</tspan>
 <tspan x="25" y="390" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">2,116</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">196</tspan>
