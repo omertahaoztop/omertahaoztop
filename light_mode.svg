@@ -22,7 +22,7 @@ text, tspan {white-space: pre;}
 <text x="25" y="30" fill="#24292f">
 <tspan class="head">omertahaoztop</tspan><tspan class="cc"> ~ (neofetch)</tspan>
 <tspan x="25" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Arch Linux, Android 16</tspan>
-<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ........................... </tspan><tspan class="value" id="age_data">24 years, 2 months, 11 days</tspan>
+<tspan x="25" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................ </tspan><tspan class="value" id="age_data">27 years, 3 months, 22 days</tspan>
 <tspan x="25" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Mono Bilisim A.Ş</tspan>
 <tspan x="25" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Linux System Administrator</tspan>
 <tspan x="25" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">Neovim</tspan>
