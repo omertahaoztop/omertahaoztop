@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="700px" height="430px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="684px" height="430px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -16,9 +16,9 @@ size-adjust: 109%;
 .head {fill: #0969da; font-weight: bold;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="700px" height="430px" fill="#f6f8fa" rx="15"/>
-<rect x="25" y="10" width="650" height="2" fill="#0969da" opacity="0.5"/>
-<rect x="25" y="420" width="650" height="2" fill="#0969da" opacity="0.5"/>
+<rect width="684px" height="430px" fill="#f6f8fa" rx="15"/>
+<rect x="25" y="10" width="634" height="2" fill="#0969da" opacity="0.5"/>
+<rect x="25" y="420" width="634" height="2" fill="#0969da" opacity="0.5"/>
 <text x="25" y="30" fill="#24292f">
 <tspan class="head">omertahaoztop</tspan><tspan class="cc"> ~ (neofetch)</tspan>
 <tspan x="25" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Arch Linux, Android 16</tspan>
